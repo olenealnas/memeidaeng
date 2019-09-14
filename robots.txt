@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ungaipaizi.roosters.io/sitemap.xml
